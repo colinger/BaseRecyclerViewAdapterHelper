@@ -1,6 +1,6 @@
 package com.chad.library.adapter.base;
 
-import android.support.annotation.NonNull;
+import androidx.annotation.NonNull;
 import android.view.ViewGroup;
 
 import com.chad.library.adapter.base.entity.SectionEntity;

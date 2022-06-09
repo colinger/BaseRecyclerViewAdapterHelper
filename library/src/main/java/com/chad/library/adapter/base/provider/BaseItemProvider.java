@@ -1,7 +1,7 @@
 package com.chad.library.adapter.base.provider;
 
 import android.content.Context;
-import android.support.annotation.NonNull;
+import androidx.annotation.NonNull;
 
 import com.chad.library.adapter.base.BaseViewHolder;
 
